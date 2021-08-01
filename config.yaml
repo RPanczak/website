@@ -114,10 +114,6 @@ menu:
     #   title: A collection
     #   url: /collection/
     #   weight: 5
-    # - name: Elements
-    #   title: Element Page
-    #   url: /elements/
-    #   weight: 6
 privacy:
   disqus:
     disable: no
