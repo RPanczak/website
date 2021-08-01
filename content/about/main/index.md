@@ -14,10 +14,10 @@ intro: |
   
   I have worked at Swansea University, University of Bern, University of Zurich and University of Queensland.  
   
-# show_outro: true
-# 
-# outro: |
-#   <i class="fas fa-glass-cheers pr2"></i>Thanks to [Alison Presmanes Hill](https://alison.rbind.io/) for Hugo theme and setup!
+show_outro: true
+
+outro: |
+  <i class="fas fa-paw pr2"></i>Thank you for visiting!
 ---
 
 ** index doesn't contain a body, just front matter above.
