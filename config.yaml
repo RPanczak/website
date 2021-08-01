@@ -101,11 +101,11 @@ menu:
     # - name: Blog
     #   title: Blog
     #   url: /blog/
-    #   weight: 2
+    #   weight: 3
     - name: Projects
       title: Project Portfolio
       url: /project/
-      weight: 3
+      weight: 2
     # - name: Talks
     #   title: Talks
     #   url: /talk/
