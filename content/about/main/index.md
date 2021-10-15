@@ -1,6 +1,6 @@
 ---
 ## Configure page content in wide column
-# title: "Why apéro?" # leave blank to exclude
+# title: "Experience" # leave blank to exclude
 title: 
 
 number_featured: 2 # pulling from mainSections in config.toml
@@ -11,15 +11,27 @@ show_intro: true
 
 intro: |
 
-  Previously I have worked at the University of Queensland, University of Zurich and Swansea University. 
-
-  I have studied at University of Bern, CITY University London, University of Groningen, AGH University of Science and Technology and University of Wroclaw.
+  Previously I have worked at 
   
+  - The University of Queensland (estimating temporary populations in Australia)
+  - The University of Zurich (looking at spatial patterns and determinants of human weight and height)
+  - The University of Bern (tracking activity of eosinophilic esophagitis and spatial patterns of end-of-life care) 
+  - The Swansea University (investigating space-time clusters of suicide in Wales). 
+
+  I have studied at 
+  
+  - The University of Bern (PhD in Epidemiology)
+  - CITY University London (MSc Information Management)
+  - University of Groningen (Exchange student Demography)
+  - AGH University of Science and Technology (PgDip Geographical Information Systems) 
+  - University of Wroclaw (MSc & BSc Geography).
+  
+  # More mundane details of my professional and educational experience can be found here.  
 
 show_outro: true
 
 outro: |
-  <i class="fas fa-paw pr2"></i>Thank you for visiting!
+  <i class="fas fa-paw pr2"></i>Thanks for stopping by!
 ---
 
 ** index doesn't contain a body, just front matter above.
