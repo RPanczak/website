@@ -10,10 +10,12 @@ number_categories: 0 # set to zero to exclude
 show_intro: true
 
 intro: |
-  I have studied at University of Wroclaw, University of Groningen, AGH University of Science and Technology, CITY University London and University of Bern.
+
+  Previously I have worked at the University of Queensland, University of Zurich and Swansea University. 
+
+  I have studied at University of Bern, CITY University London, University of Groningen, AGH University of Science and Technology and University of Wroclaw.
   
-  I have worked at Swansea University, University of Bern, University of Zurich and University of Queensland.  
-  
+
 show_outro: true
 
 outro: |

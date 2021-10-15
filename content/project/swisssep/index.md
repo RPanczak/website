@@ -5,14 +5,14 @@ categories:
 - mortality
 - socioeconomic-position
 - Switzerland
-date: "2021-08-02"
+date: "2021-10-15"
 draft: false
 excerpt: (Probably) the best source of information on neighbourhood socioeconomic position in Switzerland.
 featured: true
 layout: single
 links:
-- icon: newspaper
-  icon_pack: far
+- icon: open-access
+  icon_pack: ai
   name: Publication (1.0)
   url: https://allisonhorst.github.io/palmerpenguins/
 - icon: osf
@@ -31,7 +31,7 @@ title: Swiss-SEP
 
 ## Original paper
 
-Link and info 
+Link and info  
 
 ## Sequel
 
