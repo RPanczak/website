@@ -10,7 +10,7 @@ description: I am a geographer turned epidemiologist who embarked on a career in
 
 image_left: false
 images:
-- img/revoir.jpg
+- img/front.png
 
 show_action_link: true
 show_social_links: true
