@@ -2,7 +2,7 @@
 author: Radoslaw Panczak
 
 cascade:
-  show_author_byline: false
+  show_author_byline: true
   show_comments: false
   show_post_date: false
   sidebar:
@@ -10,7 +10,7 @@ cascade:
     text_link_label: View all projects
     text_link_url: /project/
 
-description: Projects & themes I have been involved in.
+description: Projects & themes I have been working on.
 
 layout: list-grid
 show_author_byline: false
