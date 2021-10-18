@@ -116,7 +116,7 @@ menu:
     #   weight: 5
 privacy:
   disqus:
-    disable: no
+    disable: yes
   googleAnalytics:
     anonymizeIP: yes
     disable: no
