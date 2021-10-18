@@ -8,9 +8,10 @@ serve_site()
 stop_server()
 
 
-blogdown::check_config()
-
 blogdown::check_site()
+
+
+blogdown::check_config()
 
 blogdown::check_content()
 
