@@ -5,7 +5,7 @@ categories:
 - epidemiology
 - mortality
 - Switzerland
-date: "2021-10-15"
+date: "2021-10-18"
 draft: false
 excerpt: Work on the societal impact of SARS-CoV-2 & COVID-19.
 featured: true
