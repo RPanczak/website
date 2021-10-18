@@ -7,7 +7,7 @@ categories:
 - Switzerland
 date: "2021-10-17"
 draft: false
-excerpt: (Probably) the best source of information on neighbourhood socioeconomic position in Switzerland.
+excerpt: (Probably) the best information on neighbourhood socioeconomic position in Switzerland.
 featured: true
 layout: single
 links:
@@ -19,10 +19,10 @@ links:
   icon_pack: ai
   name: Version 3.0
   url:  https://doi.org/10.31219/osf.io/py9tz 
-# - icon: open-materials
-#   icon_pack: ai
-#   name: Version 4.0
-#   url: https://github.com/RPanczak/SNC_Swiss-SEP4
+- icon: open-materials
+  icon_pack: ai
+  name: Version 4.0
+  url: https://github.com/RPanczak/SNC_Swiss-SEP4
 subtitle: "A Swiss neighbourhood index of socioeconomic position"
 tags:
 - Swiss-SEP

@@ -26,7 +26,7 @@ intro: |
   - AGH University of Science and Technology (PgDip Geographical Information Systems) 
   - The University of Wroclaw (MSc & BSc Geography).
   
-  More mundane details of my professional and educational experience can be found on my CV. List of publications can be found on [Google Scholar](https://scholar.google.com/citations?user=8j-L0asAAAAJ).    
+  More mundane details of my professional and educational experience can be found on my CV. Most of my analyses live on [GitHub](https://github.com/RPanczak) and published work can be found on [Google Scholar](https://scholar.google.com/citations?user=8j-L0asAAAAJ).    
 
 show_outro: true
 
