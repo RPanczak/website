@@ -29,17 +29,17 @@ tags:
 title: Reproducibility 
 ---
 
-## Teaching reproducibility
+## Teaching & implementing reproducibility
 
 I had an enormous pleasure to be involved in organisation and delivery of re:produce workshop in Brisbane. Together with a small team of brilliant EMCRs and support from Theo Murphy Initiative of Australian Academy of Science we delivered an event teaching practical aspects of implementing open science. Materials from the workshop are archived on [OSF](https://osf.io/mw6d3/).  
 
-In my current role in IeDEA project I am responsible for running open science working group that aims to implement version control for analytical projects and improvement of of data access and archivization.  
-
 I am also an active member of [Swiss Reproducibility Network](https://www.swissrn.org/) where I contribute to the work of Bern local node and am active in *Preregistration* and *Training* initiatives.  
+
+In my current role in IeDEA project I am leading open science working group that implements version control for our analysts and works toward estabilishing better practices in data quality, access and archivization.  
 
 ## Reproducible papers
 
-I aim to conduct my research following principles of open science. Ideally, the research I lead and have sufficient amount of control over will have it's analytical code and data published. Example of such approaches can be found in the [systematic review](https://github.com/RPanczak/TEMPO_syst-rev) of the TEMPO project or [the analysis](https://github.com/RPanczak/ISPM_excess-mortality) of historical trends in excess mortality. In cases where data cannot be shared openly we aim to provide aggregated and anonymized data or at least the code used to perform analyses (like in the COVID-SEP [project](https://github.com/jriou/covid-sep-ch)).   
+I aim to conduct my research following principles of open science. Ideally, the research I lead and have sufficient amount of control over will have its analytical code and data published. Example of such approaches can be found in the [systematic review](https://github.com/RPanczak/TEMPO_syst-rev) of the TEMPO project or [the analysis](https://github.com/RPanczak/ISPM_excess-mortality) of historical trends in excess mortality. In cases where data cannot be shared openly we aim to provide aggregated and anonymized data or at least the code used to perform analyses (like in the COVID-SEP [project](https://github.com/jriou/covid-sep-ch)).   
 
 ## SCORE project
 
