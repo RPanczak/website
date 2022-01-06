@@ -2,7 +2,7 @@ baseURL: /
 theme: hugo-apero
 languageCode: en
 title: Personal website
-author: Radoslaw Panczak
+author: Radosław Pańczak
 copyright: ''
 googleAnalytics: ''
 disqusShortname: ''
@@ -33,17 +33,17 @@ params:
   custom_theme: ''
   customheadingFontFamily: Fraunces
   customtextFontFamily: Commissioner
-  description: Personal website of Radoslaw Panczak.
-  favicon: /img/favicon.ico
+  description: Personal website of Radosław Pańczak.
+  favicon: /img/bomb-solid.ico
   headingFontFamily: sans-serif
-  logo: /img/blogophonic-mark-dark.png
+  logo: /img/globe-europe-solid.svg
   mainSections:
     - project
     # - blog
     # - talk
   navallcaps: yes
   orgLocal: 
-  orgName: Radoslaw Panczak
+  orgName: Radosław Pańczak
   sharing_image: /img/papillons.jpg
   social:
     - icon: github
