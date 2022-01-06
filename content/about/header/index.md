@@ -3,7 +3,7 @@
 text_align_right: false
 show_title_as_headline: false
 headline: |
-  Hi, my name is Radoslaw. 
+  Hi, my name is Radosław. 
 ---
 
 <!-- this is a subheadline -->
