@@ -34,7 +34,7 @@ params:
   customheadingFontFamily: Fraunces
   customtextFontFamily: Commissioner
   description: Personal website of Radosław Pańczak.
-  favicon: /img/bomb-solid.ico
+  favicon: /img/globe-europe-solid.ico
   headingFontFamily: sans-serif
   logo: /img/globe-europe-solid.svg
   mainSections:
