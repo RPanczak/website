@@ -2,10 +2,9 @@
 author: Radoslaw Panczak
 categories:
 - reproducibility 
-- open data
-- open access
 - open science
-date: "2021-10-16"
+- training
+date: "2022-02-07"
 draft: false
 excerpt: Reproducible science is better science!
 featured: true
@@ -33,9 +32,11 @@ title: Reproducibility
 
 I had an enormous pleasure to be involved in organisation and delivery of re:produce workshop in Brisbane. Together with a small team of brilliant EMCRs and support from Theo Murphy Initiative of Australian Academy of Science we delivered an event teaching practical aspects of implementing open science. Materials from the workshop are archived on [OSF](https://osf.io/mw6d3/).  
 
+![Brisbane rocks!](brisbane.png)
+
 I am also an active member of [Swiss Reproducibility Network](https://www.swissrn.org/) where I contribute to the work of Bern local node and am active in *Preregistration* and *Training* initiatives.  
 
-In my current role in IeDEA project I am leading open science working group that implements version control for our analysts and works toward estabilishing better practices in data quality, access and archivization.  
+In my current role in IeDEA project I am leading open science working group that implements version control for our analysts and works toward establishing better practices in data quality, access and archivization.  
 
 ## Reproducible papers
 
