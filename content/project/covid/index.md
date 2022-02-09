@@ -5,7 +5,7 @@ categories:
 - epidemiology
 - mortality
 - Switzerland
-date: "2021-10-18"
+date: "2022-01-06"
 draft: false
 excerpt: Work on the societal impact of SARS-CoV-2 & COVID-19.
 featured: true
@@ -37,9 +37,9 @@ When the [Swiss-SEP index](../swisssep/) was created I could have never imagined
 
 ## Historical trends in excess mortality
 
-![Monthly excess (figure 1 from paper)](excess.png)
+![Monthly % excess (figure 1 from paper)](excess.png)
 
-[Excess mortality](https://ourworldindata.org/excess-mortality-covid) is an extremely useful measure that helps in quantification of the impact of significant events on the health of population. We used over 100 years of data to look at the patterns of excess mortality in three countries. We found that during the COVID-19 pandemic in 2020-21 Spain, Sweden, and Switzerland recorded their highest monthly excess all-cause mortality levels since the 1918 influenza pandemic. You can read more about our findings in a preprint [here](https://doi.org/10.1101/2021.08.12.21261825). Additional materials are available from project's [website](https://rpanczak.github.io/ISPM_excess-mortality/).  
+[Excess mortality](https://ourworldindata.org/excess-mortality-covid) is an extremely useful measure that helps in quantification of the impact of significant events on the health of population. We used over 100 years of data to look at the patterns of excess mortality in three countries. Using counterfactual thinking in Bayesian framework we showed that during the COVID-19 pandemic in 2020-21 Spain, Sweden, and Switzerland recorded their highest monthly excess all-cause mortality levels since the 1918 influenza pandemic. You can read more about our findings in a paper [here](https://doi.org/10.7326/M21-3824). Additional materials are available from project's [website](https://rpanczak.github.io/ISPM_excess-mortality/).  
 
 ## Spatial patterns of excess mortality
 
