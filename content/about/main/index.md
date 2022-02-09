@@ -26,7 +26,7 @@ intro: |
   - The University of Groningen (MSc Demography exchange student)
   - The University of Wroclaw (MSc & BSc Geography).
   
-  More details of my professional and educational experience can be found on my CV. Most of my analyses live on [GitHub](https://github.com/RPanczak) and published work can be found on [Google Scholar](https://scholar.google.com/citations?user=8j-L0asAAAAJ).    
+  More details of my professional and educational experience can be found on my CV. Most of my analyses live on [GitHub](https://github.com/RPanczak) and published work can be found on [Google Scholar](https://scholar.google.com/citations?user=8j-L0asAAAAJ).  
 
 show_outro: true
 
