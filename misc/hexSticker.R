@@ -53,7 +53,7 @@ s <- sticker("content/project/swisssep/carto.png",
              p_family = "Commissioner", p_size = 16, 
              h_fill = "#D7DBC5", h_color = "#697D75",
              s_x = 1, s_y = .9, 
-             s_width = 0.8, s_height = 0.8,
+             s_width = 0.8, asp = 518/600,
              filename = "content/project/swisssep/featured-hex.png")
 
 plot(s)
@@ -68,7 +68,7 @@ s <- sticker("content/project/open-science/open.png",
              p_family = "Commissioner", p_size = 16, 
              h_fill = "#D7DBC5", h_color = "#697D75",
              s_x = 1, s_y = .85, 
-             s_width = 0.5, s_height = 0.45,
+             s_width = 0.55, asp = 518/600,
              filename = "content/project/reproducibility/featured-hex.png")
 
 plot(s)
@@ -77,15 +77,13 @@ plot(s)
 # =================================================
 # tempo 
 
-s <- sticker("content/project/tempo/qcpr_logo_large/open.png", 
-             package = "Re:produce", 
+s <- sticker("content/project/tempo/qcpr_logo/qcpr_logo_large.png", 
+             package = "TEMPO", 
              p_x = 1, p_y = 1.55, p_color = "#8C9C8C", 
              p_family = "Commissioner", p_size = 16, 
              h_fill = "#D7DBC5", h_color = "#697D75",
-             s_x = 1, s_y = .85, 
-             s_width = 0.5, s_height = 0.45,
+             s_x = 1, s_y = .8, 
+             s_width = 0.6, asp = 518/600,
              filename = "content/project/tempo/featured-hex.png")
 
 plot(s)
-
-qcpr_logo_large
