@@ -73,6 +73,37 @@ s <- sticker("content/project/open-science/open.png",
 
 plot(s)
 
+# =================================================
+# SRM 
+
+library(meta)
+data("Fleiss1993cont")
+
+res.flesiss =  metacont(n.psyc, mean.psyc, sd.psyc, 
+                        n.cont, mean.cont, sd.cont,
+                        fixed = T, random = T, studlab = study,
+                        data = Fleiss1993cont, sm = "SMD") 
+
+# png(filename = "content/project/srm/hex-plot-raw.png",
+#     res = 120, bg = "transparent")
+# 
+# forest(res.flesiss, studlab = F, fixed = F,
+#        col.study = "#542788", col.square = "#542788", 
+#        col.square.lines = "#542788", col.diamond = "#542788",
+#        fontsize = 0)
+# 
+# dev.off()
+
+s <- sticker("content/project/srm/hex-plot.png", 
+             package = "Meta", 
+             p_x = 1, p_y = 1.55, p_color = "#8C9C8C", 
+             p_family = "Commissioner", p_size = 16, 
+             h_fill = "#D7DBC5", h_color = "#697D75",
+             s_x = 1.1, s_y = .8, 
+             s_width = 0.9, asp = 518/600,
+             filename = "content/project/srm/featured-hex.png")
+
+plot(s)
 
 # =================================================
 # tempo 
