@@ -25,7 +25,7 @@ layout: single
 subtitle: "Reproducible science is better science!"
 tags:
 - reproducibility
-title: Reproducibility 
+title: Open science 
 ---
 
 ## Teaching & implementing reproducibility
@@ -44,4 +44,4 @@ I aim to conduct my research following principles of open science. Ideally, the 
 
 ## SCORE project
 
-I was involved in two replications of the Centre for Open Science's  [SCORE project](https://www.cos.io/score). I acted as data finder and data analyst and attempted replication of two papers: [Fielding-Miller *et al.* (2020)](https://github.com/RPanczak/SCORE_Fielding-Miller_covid_R3pV) and [Siedner *et al.* (2020)](https://github.com/RPanczak/SCORE_Siedner_covid_P3NJ) works. 
+I was involved in three replications of the Centre for Open Science's  [SCORE project](https://www.cos.io/score). I acted as data finder and data analyst and attempted replication of three papers: [Fielding-Miller *et al.* (2020)](https://github.com/RPanczak/SCORE_Fielding-Miller_covid_R3pV), [Siedner *et al.* (2020)](https://github.com/RPanczak/SCORE_Siedner_covid_P3NJ) and [Kim & Radoias (2016)](https://github.com/RPanczak/SCORE_Kim_SocSciMed_2016_AqDO).   
