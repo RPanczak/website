@@ -34,7 +34,7 @@ I had an enormous pleasure to be involved in organisation and delivery of re:pro
 
 ![Brisbane rocks!](brisbane.png)
 
-I am also an active member of [Swiss Reproducibility Network](https://www.swissrn.org/) where I contribute to the work of Bern local node and am active in *Preregistration* and *Training* initiatives.  
+I am also an active member of [Swiss Reproducibility Network](https://www.swissrn.org/) where I contribute to the work of Bern local node and am active in [Preregistration](https://github.com/SwissRN/SNF_prereg) and [Training](https://doi.org/10.31219/osf.io/am5ck) initiatives.  
 
 In my current role in IeDEA project I am leading open science working group that implements version control for our analysts and works toward establishing better practices in data quality, access and archivization.  
 
