@@ -31,3 +31,11 @@ with(airquality, plot(Ozone ~ Temp,
                       col = mlev))
 ```
 
+## Auto
+
+```{r}
+data(mtcars)
+
+with(mtcars, boxplot(mpg ~ cyl))
+```
+
