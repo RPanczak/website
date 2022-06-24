@@ -24,17 +24,17 @@ layout: single
 #   url: https://github.com/RPanczak/SNC_Swiss-SEP4
 subtitle: "Reproducible science is better science!"
 tags:
-- reproducibility
+- academic
 title: Open science 
 ---
 
 ## Teaching & implementing reproducibility
 
-I had an enormous pleasure to be involved in organisation and delivery of re:produce workshop in Brisbane. Together with a small team of brilliant EMCRs and support from Theo Murphy Initiative of Australian Academy of Science we delivered an event teaching practical aspects of implementing open science. Materials from the workshop are archived on [OSF](https://osf.io/mw6d3/).  
+I had an enormous pleasure to be involved in organisation and delivery of re:produce workshop in Brisbane. Together with a small team of brilliant EMCRs and support from *Theo Murphy Initiative* of Australian Academy of Science we delivered an event teaching practical aspects of implementing open science. Materials from the workshop are archived on [OSF](https://osf.io/mw6d3/).  
 
 ![Brisbane rocks!](brisbane.png)
 
-I am also an active member of [Swiss Reproducibility Network](https://www.swissrn.org/) where I contribute to the work of Bern local node and am active in [Preregistration](https://github.com/SwissRN/SNF_prereg) and [Training](https://doi.org/10.31219/osf.io/am5ck) initiatives.  
+I am also an active member of [Swiss Reproducibility Network](https://www.swissrn.org/) where I contribute to the work of Bern local node and [Preregistration](https://github.com/SwissRN/SNF_prereg) and [Training](https://doi.org/10.31219/osf.io/am5ck) initiatives.  
 
 In my current role in IeDEA project I am leading open science [working group](https://github.com/IeDEA-SA/IeDEA_WG-open-science) that implements version control for our analysts and works toward establishing better practices in data quality, access and archivization.  
 
