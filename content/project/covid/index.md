@@ -25,7 +25,7 @@ links:
   url: https://github.com/RPanczak/ISPM_geo-mortality
 subtitle: "The societal impact of SARS-CoV-2 & COVID-19"
 tags:
-- COVID-19
+- academic
 title: COVID-19
 ---
 

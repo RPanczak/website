@@ -3,6 +3,7 @@
 categories:
 - epidemiology
 - mortality
+- spatial
 - socioeconomic position
 - Switzerland
 date: "2022-02-09"
@@ -25,7 +26,7 @@ links:
   url: https://github.com/RPanczak/SNC_Swiss-SEP4
 subtitle: "A Swiss neighbourhood index of socioeconomic position"
 tags:
-- Swiss-SEP
+- academic
 title: Swiss-SEP
 ---
 
