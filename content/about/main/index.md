@@ -18,13 +18,14 @@ intro: |
   - 🇨🇭 The University of Bern - tracking activity of eosinophilic esophagitis and spatial patterns of end-of-life care
   - 🇬🇧 The Swansea University - investigating space-time clusters of suicide in Wales. 
 
-  <i class="fas fa-graduation-cap pr2"></i>I studied at: 
+  <i class="fas fa-graduation-cap pr2"></i>I completed studies: 
   
-  - 🇨🇭 The University of Bern (PhD in Health Sciences (Epidemiology))
-  - 🇬🇧 City, University of London (MSc Information Management)
-  - 🇵🇱 AGH University of Science and Technology (PgDip Geographical Information Systems) 
-  - 🇳🇱The University of Groningen (MSc Demography exchange student)
-  - 🇵🇱The University of Wroclaw (MSc & BSc Geography).
+  - 🇨🇭 PhD in Health Sciences (Epidemiology) at The University of Bern
+  - 🇬🇧 MSc in Information Management at The City, University of London
+  - 🇵🇱 PgDip in Geographical Information Systems at The AGH University of Science and Technology
+  - 🇳🇱 MSc in Demography (exchange student) at The University of Groningen
+  - 🇵🇱 MSc in Socio-Economic Geography at The University of Wroclaw
+  - 🇵🇱 BSc in Geography at The University of Wroclaw
   
   More details of my professional and educational experience can be found on my CV. Most of my analyses live on [GitHub](https://github.com/RPanczak) and published work can be found on [Google Scholar](https://scholar.google.com/citations?user=8j-L0asAAAAJ).  
 
