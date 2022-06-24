@@ -33,7 +33,7 @@ title: COVID-19
 
 ![Cascade frequencies (figure 2 from paper)](sep.png)
 
-When the [Swiss-SEP index](../swisssep/) was created I could have never imagined it being used to track health outcomes during the pandemic. We used Federal Office of Public Health's COVID-19 surveillance data to investigate trends in testing, testing positive, being hospitalized, being admitted to ICU and death among Swiss population. Our results pointed to an increased risk of adverse outcomes in lower socioeconomic individuals, adding to evidence from other countries and demonstrating inequalities in how the pandemic affected different groups of population. You can read more about our findings [here](https://doi.org/10.1016/S2468-2667(21)00160-2).  
+When the [Swiss-SEP index](../swisssep/) was created I could have never imagined it being used to track health outcomes during the pandemic. We used Federal Office of Public Health's COVID-19 surveillance data to investigate trends in testing, testing positive, being hospitalized, being admitted to ICU and death among Swiss population. Our results pointed to an increased risk of adverse outcomes in lower socioeconomic individuals, adding to evidence from other countries and demonstrating inequalities in how the pandemic affected different groups of population. You can read more about our findings [here](https://doi.org/10.1016/S2468-2667(21)00160-2); the code og the analysis is anvailable in this [repository](https://github.com/jriou/covid-sep-ch).  
 
 ## Historical trends in excess mortality
 
