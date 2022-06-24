@@ -1,5 +1,5 @@
 ---
-author: Radoslaw Panczak
+# author: Radoslaw Panczak
 categories:
 - COVID-19
 - epidemiology

@@ -1,5 +1,5 @@
 ---
-author: Radoslaw Panczak
+# author: Radoslaw Panczak
 categories:
 - reproducibility 
 - open science
