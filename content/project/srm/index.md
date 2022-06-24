@@ -24,7 +24,7 @@ links:
   url: https://boris.unibe.ch/42199/
 subtitle: "Bringing studies together to strengthen evidence"
 tags:
-- reproducibility
+- academic
 title: Systematic reviews and meta-analyses 
 ---
 
@@ -32,7 +32,7 @@ title: Systematic reviews and meta-analyses
 
 ![Tempo](tempo.png)
 
-My latest systematic review was conducted within the TEMPO project at the University of Queensland. Sifting over 20 thousands publications we selected 96 that captured wide variety of methods used to estimate temporary populations. This offers a snapshot of dynamic and changing field with novel methods and data sources radically changing our understanding of dynamics of human activity. We kept the review up to date until the date of publication following ideas of living systematic review. In a truly open scientific spirit all methods nd materials are available [online](https://github.com/RPanczak/TEMPO_syst-rev).    
+My latest systematic review was conducted within the TEMPO project at the University of Queensland. Sifting over 20 thousands publications we selected 96 that captured wide variety of methods used to estimate temporary populations. Their synthesis offers a snapshot of dynamic and changing field that continuously evolves with the availability of novel methods and data sources radically changing our understanding of dynamics of human activity. We kept the review up to date until the date of publication following ideas of living systematic review. In a truly open scientific spirit all methods and materials are available [online](https://github.com/RPanczak/TEMPO_syst-rev).    
 
 ## Association between mental health-related stigma and active help-seeking
 
