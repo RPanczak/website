@@ -87,10 +87,6 @@ And trying to investigate relationship with rent on small area level:
 
 ![Rent](airbnb_rent.gif)
 
-### 'Seasonal' analyses of various data
-
-Some earlier exploratory analyses have a separate repository [here](https://github.com/RPanczak/TEMPO_seasonal).  
-
 ### Brisbane's road traffic
 
 Scrapping and visualizing ([repository](https://github.com/RPanczak/TEMPO_BCC-traffic))
