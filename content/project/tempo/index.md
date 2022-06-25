@@ -53,7 +53,7 @@ The short [report](https://doi.org/10.37970/aps.v4i2.70) led by Chiu-San Chen (w
 
 ### A data fusion approach to the estimation of temporary populations: An application to Australia
 
-The final product of the project is an analysis led by Elin, Jonathan & Julia described in a [paper](https://doi.org/10.1371/journal.pone.0259377) detailing methodology and presenting its application to estimate Average Population Present in Australian regions combining mixture of novel (Airbnb) and traditional (visitor surveys) data sources. The code, data and supplementary materials of the project live on [OSF](https://osf.io/f2nhs/) and Julia's dashboard is available [here](https://qcpr.github.io/tempo/). Some earlier exploratory analyses have a separate repository [here](https://github.com/RPanczak/TEMPO_seasonal). 
+The final product of the project is an analysis led by Elin, Jonathan & Julia described in a [paper](https://doi.org/10.1371/journal.pone.0259377) detailing methodology and presenting its application to estimate Average Population Present in Australian regions combining mixture of novel (Airbnb) and traditional (visitor surveys) data sources. The code, data and supplementary materials of the project live on [OSF](https://osf.io/f2nhs/) and Julia's dashboard is available [here](https://qcpr.github.io/tempo/). 
 
 ## Experimental components
 
@@ -78,6 +78,10 @@ Multimodal prediction of total stock of Wi-Fi users:
 ### Australian Airbnb
 
 Spatiotemporal analysis of Airbnb (Airdna) data ([repository](https://github.com/RPanczak/TEMPO_Airbnb)).  
+
+### 'Seasonal' analyses of various data
+
+Some earlier exploratory analyses have a separate repository [here](https://github.com/RPanczak/TEMPO_seasonal). 
 
 ### Brisbane's road traffic
 
