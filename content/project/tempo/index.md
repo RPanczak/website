@@ -9,19 +9,19 @@ draft: false
 excerpt: Tracking short-term changes in population distributions
 featured: true
 layout: single
-# links:
-# - icon: open-access
-#   icon_pack: ai
-#   name: Version 1.0
-#   url: https://pubmed.ncbi.nlm.nih.gov/22717282/
-# - icon: open-access
-#   icon_pack: ai
-#   name: Version 3.0
-#   url:  https://doi.org/10.31219/osf.io/py9tz 
-# - icon: open-materials
-#   icon_pack: ai
-#   name: Version 4.0
-#   url: https://github.com/RPanczak/SNC_Swiss-SEP4
+links:
+- icon: github
+  icon_pack: fab
+  name: Seasonal
+  url: https://github.com/RPanczak/TEMPO_seasonal
+- icon: github
+  icon_pack: fab
+  name: Pop 24/7
+  url: https://github.com/RPanczak/TEMPO_pop247
+- icon: github
+  icon_pack: fab
+  name: Airbnb
+  url: https://github.com/RPanczak/TEMPO_Airbnb
 subtitle: "Tracking short-term changes in population distributions"
 tags:
 - academic
@@ -49,13 +49,9 @@ I led the effort to systematize the literature for the project - details can be 
 
 ### Assessing the utility of Facebook in the 2019 flood in Townsville, Australia
 
-![Townsville floods](townsville.png)
-
-The short [report](https://doi.org/10.37970/aps.v4i2.70) by Chiu-San Chen (with invaluable data scraping contributions by Alexander Whitehead) showcases use of the Facebook Ads to visualize changes in temporary populations during the 2019 Townsville floods. 
+The short [report](https://doi.org/10.37970/aps.v4i2.70) led by Chiu-San Chen (with invaluable data scraping contributions by Alexander Whitehead) showcased the use of the Facebook Ads data to visualize changes in temporary populations during the 2019 Townsville floods. 
 
 ### A data fusion approach to the estimation of temporary populations: An application to Australia
-
-![APP in Australia](app.png)
 
 The final product of the project is an analysis led by Elin, Jonathan & Julia described in a [paper](https://doi.org/10.1371/journal.pone.0259377) detailing methodology and presenting its application to estimate Average Population Present in Australian regions combining mixture of novel (Airbnb) and traditional (visitor surveys) data sources. The code, data and supplementary materials of the project live on [OSF](https://osf.io/f2nhs/) and Julia's dashboard is available [here](https://qcpr.github.io/tempo/). Some earlier exploratory analyses have a separate repository [here](https://github.com/RPanczak/TEMPO_seasonal). 
 
@@ -63,10 +59,30 @@ The final product of the project is an analysis led by Elin, Jonathan & Julia de
 
 Not all the outputs of the project have been published and some ended their life as presentations or exploratory data analyses. Incomplete list of these includes: 
 
-- temporal analysis of one week of population movements on St Lucia campus using multiple sources of data ([repository](https://github.com/RPanczak/TEMPO_pop247))
+### Campus 24/7 
 
-- spatiotemporal analysis of Airbnb (Airdna) data ([repository](https://github.com/RPanczak/TEMPO_Airbnb))
+Temporal analysis of one week of population movements on St Lucia campus ([repository](https://github.com/RPanczak/TEMPO_pop247), [website](https://rpanczak.github.io/TEMPO_pop247/)).  
 
-- scrapping and visualizing Brisbane's road traffic ([repository](https://github.com/RPanczak/TEMPO_BCC-traffic))
+Using multiple sources of data:  
 
-- visualizations and simple analyses of campus-wide Wi-Fi network ([repository](https://github.com/RPanczak/TEMPO_Wi-Fi))
+![Daily counts by mode](counts.png)
+
+Google Places popularity predicting ferry terminal arrivals:  
+
+![Google places](google.png)
+
+Multimodal prediction of total stock of Wi-Fi users:  
+
+![Animating predictions](anim.gif)
+
+### Australian Airbnb
+
+Spatiotemporal analysis of Airbnb (Airdna) data ([repository](https://github.com/RPanczak/TEMPO_Airbnb)).  
+
+### Brisbane's road traffic
+
+Scrapping and visualizing ([repository](https://github.com/RPanczak/TEMPO_BCC-traffic))
+
+### Campus Wi-Fi 
+
+Visualizations and simple analyses of campus-wide Wi-Fi network ([repository](https://github.com/RPanczak/TEMPO_Wi-Fi))
