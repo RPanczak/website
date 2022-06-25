@@ -79,9 +79,17 @@ Multimodal prediction of total stock of Wi-Fi users:
 
 Spatiotemporal analysis of Airbnb (Airdna) data ([repository](https://github.com/RPanczak/TEMPO_Airbnb)).  
 
+Looking at the spectacular growth of available properties:  
+
+![Properties](airbnb_properties.gif)
+
+And trying to investigate relationship with rent on small area level:  
+
+![Rent](airbnb_rent.gif)
+
 ### 'Seasonal' analyses of various data
 
-Some earlier exploratory analyses have a separate repository [here](https://github.com/RPanczak/TEMPO_seasonal). 
+Some earlier exploratory analyses have a separate repository [here](https://github.com/RPanczak/TEMPO_seasonal).  
 
 ### Brisbane's road traffic
 
