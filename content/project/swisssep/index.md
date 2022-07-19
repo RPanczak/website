@@ -12,16 +12,16 @@ excerpt: (Probably) the best information on neighbourhood socioeconomic position
 featured: true
 layout: single
 links:
-- icon: open-access
-  icon_pack: ai
+- icon: newspaper
+  icon_pack: fas
   name: Version 1.0
   url: https://pubmed.ncbi.nlm.nih.gov/22717282/
-- icon: open-access
-  icon_pack: ai
+- icon: github
+  icon_pack: fab
   name: Version 2.0 & 3.0
-  url:  https://doi.org/10.31219/osf.io/py9tz 
-- icon: open-materials
-  icon_pack: ai
+  url:  https://github.com/RPanczak/SNC_Swiss-SEP2 
+- icon: github
+  icon_pack: fab
   name: Version 4.0
   url: https://github.com/RPanczak/SNC_Swiss-SEP4
 subtitle: "A Swiss neighbourhood index of socioeconomic position"
