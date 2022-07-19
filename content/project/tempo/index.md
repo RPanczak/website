@@ -12,15 +12,15 @@ layout: single
 links:
 - icon: github
   icon_pack: fab
-  name: Seasonal
-  url: https://github.com/RPanczak/TEMPO_seasonal
-- icon: github
-  icon_pack: fab
-  name: Pop 24/7
+  name: campus
   url: https://github.com/RPanczak/TEMPO_pop247
 - icon: github
   icon_pack: fab
-  name: Airbnb
+  name: city
+  url: https://github.com/RPanczak/TEMPO_BCC-traffic
+- icon: github
+  icon_pack: fab
+  name: country
   url: https://github.com/RPanczak/TEMPO_Airbnb
 subtitle: "Tracking short-term changes in population distributions"
 tags:
@@ -77,7 +77,7 @@ Multimodal prediction of total stock of Wi-Fi users:
 
 ### Australian Airbnb
 
-Spatiotemporal analysis of Airbnb (Airdna) data ([repository](https://github.com/RPanczak/TEMPO_Airbnb)).  
+Coming soon: spatiotemporal analysis of Airbnb (Airdna) data ([repository](https://github.com/RPanczak/TEMPO_Airbnb)).  
 
 Looking at the spectacular growth of available properties:  
 
@@ -89,8 +89,8 @@ And trying to investigate relationship with rent on small area level:
 
 ### Brisbane's road traffic
 
-Scrapping and visualizing ([repository](https://github.com/RPanczak/TEMPO_BCC-traffic))
+Coming soon: scrapping and visualizing ([repository](https://github.com/RPanczak/TEMPO_BCC-traffic))
 
-### Campus Wi-Fi 
+<!--- ### Campus Wi-Fi --->
 
-Visualizations and simple analyses of campus-wide Wi-Fi network ([repository](https://github.com/RPanczak/TEMPO_Wi-Fi))
+<!--- Visualizations and simple analyses of campus-wide Wi-Fi network ([repository](https://github.com/RPanczak/TEMPO_Wi-Fi)) --->
