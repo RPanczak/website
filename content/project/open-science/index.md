@@ -34,7 +34,7 @@ I had an enormous pleasure to be involved in organisation and delivery of re:pro
 
 ![Brisbane rocks!](brisbane.png)
 
-I am also an active member of [Swiss Reproducibility Network](https://www.swissrn.org/) where I contribute to the work of Bern local node and [Preregistration](https://github.com/SwissRN/SNF_prereg) and [Training](https://doi.org/10.31219/osf.io/am5ck) initiatives. One of the first output of this group is *10 rules* [paper](https://doi.org/10.1371/journal.pcbi.1010139).    
+I am also an active member of [Swiss Reproducibility Network](https://www.swissrn.org/) where I contribute to the work of Bern local node and [Preregistration](https://github.com/SwissRN/SNF_prereg), [Training](https://doi.org/10.31219/osf.io/am5ck) and Computational Reproducibility initiatives. One of the first output of this group is *10 rules* [paper](https://doi.org/10.1371/journal.pcbi.1010139).    
 
 <p style="text-align:center;"><img src="ten.PNG" alt="Ten rules" width="50%"/></p>
 
