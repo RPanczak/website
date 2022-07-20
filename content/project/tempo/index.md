@@ -67,11 +67,11 @@ Using multiple sources of data:
 
 ![Daily counts by mode](counts.png)
 
-Google Places popularity predicting ferry terminal arrivals:  
+Example of *popularity* of Google Places predicting ferry terminal arrivals:  
 
 ![Google places](google.png)
 
-Multimodal prediction of total stock of Wi-Fi users:  
+Example of prediction of total stock of Wi-Fi users:  
 
 ![Animating predictions](anim.gif)
 
