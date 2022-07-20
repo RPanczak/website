@@ -1,4 +1,4 @@
-baseURL: /
+baseURL: "https://www.rados.me/"
 theme: hugo-apero
 languageCode: en
 title: Personal website
