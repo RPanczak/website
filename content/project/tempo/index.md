@@ -77,7 +77,7 @@ Example of prediction of total stock of Wi-Fi users:
 
 ### Australian Airbnb
 
-Coming soon: spatiotemporal analysis of Airbnb (Airdna) data ([repository](https://github.com/RPanczak/TEMPO_Airbnb)).  
+Spatiotemporal analysis of Airbnb (Airdna) data ([repository](https://github.com/RPanczak/TEMPO_Airbnb)).  
 
 Looking at the spectacular growth of available properties:  
 
