@@ -89,8 +89,4 @@ And trying to investigate relationship with rent on small area level:
 
 ### Brisbane's road traffic
 
-Scrapping and munging open traffic data from Brisbane using HPC ([repository](https://github.com/RPanczak/TEMPO_BCC-traffic))>
-
-<!--- ### Campus Wi-Fi --->
-
-<!--- Visualizations and simple analyses of campus-wide Wi-Fi network ([repository](https://github.com/RPanczak/TEMPO_Wi-Fi)) --->
+Scrapping and munging open traffic data from Brisbane using HPC ([repository](https://github.com/RPanczak/TEMPO_BCC-traffic)).  
