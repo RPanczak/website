@@ -61,6 +61,9 @@ params:
     - icon: mastodon
       icon_pack: fab
       url: https://mastodon.social/@RPanczak
+    - icon: linkedin-in
+      icon_pack: fab
+      url: https://ch.linkedin.com/in/rpanczak
     # - icon: rss
     #   icon_pack: fas
     #   url: /blog/index.xml
