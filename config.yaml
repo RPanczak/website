@@ -58,9 +58,9 @@ params:
     - icon: osf
       icon_pack: ai
       url: https://osf.io/2xk8n/
-    - icon: twitter
+    - icon: mastodon
       icon_pack: fab
-      url: https://twitter.com/RPanczak
+      url: https://mastodon.social/@RPanczak
     # - icon: rss
     #   icon_pack: fas
     #   url: /blog/index.xml
