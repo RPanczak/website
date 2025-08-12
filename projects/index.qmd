@@ -1,0 +1,18 @@
+---
+title: "Project Portfolio"
+listing:
+  contents: 
+    - covid.qmd
+    - swisssep.qmd
+    - tempo.qmd
+    - srm.qmd
+    - fun.qmd
+    - open-science.qmd
+  type: grid
+  grid-columns: 2
+  sort: "date desc"
+  categories: true
+  fields: [image, title, subtitle, description, categories, date]
+---
+
+Projects & themes I have been working on.

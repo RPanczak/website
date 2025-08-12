@@ -1,14 +1,15 @@
 [build]
-command = "hugo"
-publish = "public"
+command = "quarto render"
+publish = "_site"
+
 [build.environment]
-HUGO_VERSION = "0.84.4"
+QUARTO_VERSION = "1.4.550"
 
 [context]
 [context.branch-deploy]
-command = "hugo -F -b $DEPLOY_PRIME_URL"
+command = "quarto render"
 [context.deploy-preview]
-command = "hugo -F -b $DEPLOY_PRIME_URL"
+command = "quarto render"
 [context.production]
 [context.production.environment]
-HUGO_ENV = "production"
+QUARTO_ENV = "production"

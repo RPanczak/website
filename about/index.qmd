@@ -1,0 +1,25 @@
+---
+title: "About"
+---
+
+## Experience
+
+<i class="fas fa-briefcase"></i> **Previously I worked at:**
+
+- 🇦🇺 The University of Queensland - estimating temporary populations in Australia
+- 🇨🇭 The University of Zurich - looking at spatial patterns and determinants of human weight and height
+- 🇨🇭 The University of Bern - tracking activity of eosinophilic esophagitis and spatial patterns of end-of-life care
+- 🇬🇧 The Swansea University - investigating space-time clusters of suicide in Wales
+
+<i class="fas fa-graduation-cap"></i> **I completed studies:**
+
+- 🇨🇭 PhD in Health Sciences (Epidemiology) at The University of Bern
+- 🇬🇧 MSc in Information Management at The City, University of London
+- 🇵🇱 PgDip in Geographical Information Systems at The AGH University of Science and Technology
+- 🇳🇱 MSc in Demography (exchange student) at The University of Groningen
+- 🇵🇱 MSc in Socio-Economic Geography at The University of Wroclaw
+- 🇵🇱 BSc in Geography at The University of Wroclaw
+
+More details of my professional and educational experience can be found on my CV. Most of my analyses live on [GitHub](https://github.com/RPanczak) and published work can be found on [Google Scholar](https://scholar.google.com/citations?user=8j-L0asAAAAJ).
+
+<i class="fas fa-paw"></i> Thanks for stopping by!

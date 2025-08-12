@@ -1,0 +1,32 @@
+---
+title: "Radosław Pańczak"
+subtitle: "Epidemiology, geography & data science"
+image: img/front.png
+about:
+  template: trestles
+  image-width: 15em
+  image-shape: rounded
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/RPanczak
+    - icon: mortarboard-fill
+      text: ORCID
+      href: http://orcid.org/0000-0001-5141-683X
+    - icon: google
+      text: Scholar
+      href: https://scholar.google.com/citations?user=8j-L0asAAAAJ
+    - icon: box-seam
+      text: OSF
+      href: https://osf.io/2xk8n/
+    - icon: mastodon
+      text: Mastodon
+      href: https://mastodon.social/@RPanczak
+    - icon: linkedin
+      text: LinkedIn
+      href: https://ch.linkedin.com/in/rpanczak
+---
+
+Hi, and welcome to my site! I am a geographer turned epidemiologist who embarked on a career in data science. I contributed to over forty scientific publications across different disciplines and themes. I enjoy team-driven, cross-disciplinary work tackling wicked data problems with transparent and reproducible analytical workflows.
+
+[Learn more about me](about/index.qmd){.btn .btn-outline-primary .btn-sm role="button"}
