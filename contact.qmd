@@ -1,0 +1,15 @@
+---
+title: "Contact"
+---
+
+Please feel free to reach out if you have any questions or would like to collaborate!
+
+You can find me on:
+
+- [GitHub](https://github.com/RPanczak) for code and projects
+- [Mastodon](https://mastodon.social/@RPanczak) for general updates
+- [LinkedIn](https://ch.linkedin.com/in/rpanczak) for professional networking
+- [ORCID](http://orcid.org/0000-0001-5141-683X) for academic publications
+- [Google Scholar](https://scholar.google.com/citations?user=8j-L0asAAAAJ) for research output
+
+For direct contact, you can email me through my institutional affiliation or connect via any of the social platforms above.

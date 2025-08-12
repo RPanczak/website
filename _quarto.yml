@@ -1,0 +1,51 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - "*.qmd"
+    - "!themes/"
+    - "!content/"
+
+website:
+  title: "Personal website"
+  site-url: "https://www.rados.me/"
+  description: "Personal website of Radosław Pańczak."
+  
+  navbar:
+    logo: /img/globe-europe-solid.svg
+    left:
+      - text: "About"
+        href: about/index.qmd
+      - text: "Projects" 
+        href: projects/index.qmd
+    right:
+      - icon: github
+        href: https://github.com/RPanczak
+      - icon: mastodon
+        href: https://mastodon.social/@RPanczak
+        
+  page-footer:
+    left: "© 2024 Radosław Pańczak"
+    right:
+      - text: "Contact"
+        href: contact.qmd
+      - text: "License"
+        href: license.qmd
+      - text: "Disclaimer"
+        href: disclaimer.qmd
+
+format:
+  html:
+    theme: 
+      - cosmo
+      - custom.scss
+    css: styles.css
+    toc: true
+    page-layout: article
+    grid:
+      sidebar-width: 250px
+      body-width: 900px
+      margin-width: 200px
+    
+execute:
+  freeze: auto
